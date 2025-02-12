@@ -1,0 +1,15 @@
+.puzzle2-container {
+  text-align: center;
+  padding: 50px;
+  font-family: Arial, sans-serif;
+}
+
+.next-button {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 10px 20px;
+  background: darkred;
+  color: white;
+  text-decoration: none;
+  border-radius: 10px;
+}
